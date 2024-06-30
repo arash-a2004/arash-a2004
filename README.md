@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C#, .NET**, and in general, becoming a backend developer.
 - I have worked with the **Qt framework on C++**.
-- I'm familiar with **HTML5/CSS3** and [I've been working on GNU/Linux🐧 recently](#).
+- I'm familiar with HTML5/CSS3 and I've been working on GNU/Linux🐧 recently.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
