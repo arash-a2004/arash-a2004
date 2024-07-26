@@ -16,7 +16,7 @@
 - I am familiar with various APIs, including **Rest**, **gRPC**, and **GraphQL**.
 - I'm exploring Design Microservices Architecture with Patterns & Principles and related technologies like RabbitMQ and Redis.
 - I have worked with the **Qt framework on C++**.
-- I am also familiar with some Front-end .NET frameworks such as **WPF**.
+- I am also familiar with some Front-end frameworks such as **WPF** in .Net.
 - I'm familiar with HTML5/CSS3 and I've been working on GNU/Linux🐧 recently.
 
 <h3 align="left">Languages and Tools:</h3>
