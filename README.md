@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C#, .NET**, and in general, becoming a backend developer.
 - I have a solid understanding of **MySQL** and **Git**.
-- I am familiar with some widely used libraries in .NET such as **EF Core** and **AutoMapper**.
+- I am familiar with some widely used libraries in .NET such as **EF Core**.
 - I am familiar with various APIs, including **Rest**, **gRPC**, and **GraphQL**.
 - I'm exploring Design Microservices Architecture with Patterns & Principles and related technologies like RabbitMQ and Redis.
 - I have worked with the **Qt framework on C++**.
