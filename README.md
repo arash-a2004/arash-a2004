@@ -10,7 +10,7 @@
     </a>
 </p>
 
-- currently learning **C#, .NET**, and in general, becoming a backend developer.
+- currently learning and Working with **C#, .NET**, and in general, becoming a backend developer.
 - have a solid understanding of **MySQL** and **Git**.
 - familiar with some widely used libraries in .NET such as **Entity Framework**.
 - familiar with various APIs, including **Rest**, **gRPC**, and **GraphQL**.
