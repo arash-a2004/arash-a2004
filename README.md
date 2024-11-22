@@ -11,7 +11,7 @@
 </p>
 
 - currently learning and Working with **C#, .NET**, and in general, becoming a backend developer.
-- have a solid understanding of **MySQL** and **Git**.
+- have a solid understanding of **SQL** and **Git**.
 - familiar with some widely used libraries in .NET such as **Entity Framework**.
 - familiar with various APIs, including **Rest**, **gRPC**, and **GraphQL**.
 - exploring Design Microservices Architecture with Patterns & Principles and related technologies like RabbitMQ and Redis.
