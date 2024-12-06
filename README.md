@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arash Ashrafi</h1>
-<h3 align="center">A passionate Backend Developer from Iran</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
 <p align="center"> 
     <a href="https://linkedin.com/in/arash-ashrafi-abyaneh-188767270" target="_blank">
